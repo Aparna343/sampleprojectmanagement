@@ -11,3 +11,8 @@ This is a simple PYTHON program that calculates a student's grade based on marks
 1. Clone this repo
 2. Open the project folder
 3. Run the main file
+# Tools used
+  python 3.x
+  python 3.x
+# contributor
+Aparna s
