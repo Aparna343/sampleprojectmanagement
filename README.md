@@ -2,8 +2,7 @@
 # My First Project
 Python program to 
 calculate student grades” or “A simple HTML portfolio site”.
-
-
+This is a simple PYTHON program that calculates a student's grade based on marks.
 ## Features
 - Easy to understand
 - Basic Git commands practice
